@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fa3I3hUye0B+mFmZTrZE3rchvnoz1z8C+lWRuKkz+qzuPkpprArUfvN+Lo+JpBW0LbWUptLu9fLQ6UKo+f32qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alumno\\source\\repos\\EjercicioPersonas\\EjercicioPersonas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alumno\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
